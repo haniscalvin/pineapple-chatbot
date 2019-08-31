@@ -7,7 +7,7 @@ This chatbot is able to collect text from the CSULA website page and organize/la
 
 The entirety of this project contains these programs:
 - Dynamic chat website [w/ connection to Bot server] (React)
-- Language Parser (Amazon Lex)
+- Language Parser (Lex API)
   - understand user's intentions and get useful keywords
 - Web Crawler
 - Data Tagger and Organizer (spacy)
