@@ -1,2 +1,1 @@
-Note: this program uses the Spider open source crawler libraries made by thenewboston.
-
+Open source crawler API provided by thenewboston.
